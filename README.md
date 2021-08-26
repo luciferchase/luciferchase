@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I can draw pretty well**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/luciferchase" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="luciferchase" height="30" width="40" /></a>
@@ -32,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciferchase&show_icons=true&theme=dracula&locale=en&layout=compact" alt="luciferchase" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferchase&show_icons=true&theme=dracula&locale=en" alt="luciferchase" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferchase&show_icons=true&theme=dracula&locale=en" alt="luciferchase" /></p>
 
