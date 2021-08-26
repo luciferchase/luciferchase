@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciferchase&show_icons=true&theme=dracula&locale=en&layout=compact" alt="luciferchase" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferchase&show_icons=true&theme=dracula&locale=en" alt="luciferchase" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=luciferchase&show_icons=true&theme=dracula&locale=en" alt="luciferchase" /></p>
 
